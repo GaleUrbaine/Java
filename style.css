@@ -1,0 +1,27 @@
+body {
+  background-color: #EEEEEE;
+  font font-family: roboto;
+}
+
+#container {
+  background-color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  color: #8B0000;
+}
+#header {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+#content {
+  padding 10px 10px 10px 10px;
+}
+
+#footer {
+  background-color: #EEE;
+  clear: both;
+  color: #999999;
+}
