@@ -1,1 +1,1 @@
-const popup=alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');
+alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');
